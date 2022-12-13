@@ -31,7 +31,8 @@ html,body{
   transition: all 0.3s;
 }
 .active{
-
+  display: block;
+  height: 300px;
 }
 h3{
   text-align: center;
